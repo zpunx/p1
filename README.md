@@ -87,6 +87,6 @@ Crie uma página com um formulário de pesquisa.
 
 1. O layout do formulário deve parecer com o formulário presente na foto abaixo:
 
-![Screenshot 2021-06-19 at 17 26 40](https://user-images.githubusercontent.com/63159499/122654732-cd199b00-d123-11eb-9a63-2a332e5e6834.png)
+![Screenshot 2021-06-19 at 17 58 49](https://user-images.githubusercontent.com/63159499/122655344-09e79100-d128-11eb-9a86-e22d4d8e5af0.png)
 
 2. Utilize [essa imagem](https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg) para criar o efeito de [background](https://developer.mozilla.org/pt-BR/docs/Web/CSS/background) na foto acima.
